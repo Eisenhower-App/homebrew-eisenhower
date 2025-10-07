@@ -16,8 +16,8 @@ cask "eisenhower" do
 
   zap trash: [
     "~/Library/Application Support/Eisenhower",
-    "~/Library/Caches/com.sidneydekoning.Eisenhower",
-    "~/Library/Preferences/com.sidneydekoning.Eisenhower.plist",
-    "~/Library/Saved Application State/com.sidneydekoning.Eisenhower.savedState",
+    "~/Library/Caches/nl.funky-monkey.Eisenhower",
+    "~/Library/Preferences/nl.funky-monkey.Eisenhower.plist",
+    "~/Library/Saved Application State/nl.funky-monkey.Eisenhower.savedState",
   ]
 end
